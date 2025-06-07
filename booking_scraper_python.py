@@ -13,7 +13,7 @@ BOOKING_URL = "https://www.booking.com/"
 # - Get endpoint from: https://brightdata.com/cp/zones
 # - Create new Browser API: https://docs.brightdata.com/scraping-automation/scraping-browser/quickstart
 # - HTTP format: https://brd-customer-[id]-zone-[zone]:[password]@brd.superproxy.io:9515
-BROWSER_API = os.getenv("BRIGHT_DATA_BROWSER_API_ENDPOINT", "https://brd-customer-hl_7abed23d-zone-scraping_browser2:6ttcf7cx7ix4@brd.superproxy.io:9515")
+BROWSER_API = os.getenv("BRIGHT_DATA_BROWSER_API_ENDPOINT", 'YOUR_BRIGHT_DATA_BROWSER_API_ENDPOINT')
 
 # STEP 2: Run `python booking_hotel_scraping.py` command in terminal
 
