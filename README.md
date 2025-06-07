@@ -14,6 +14,9 @@ This project demonstrates how to use <a href="https://brightdata.com/products/sc
 ## Demo
 https://github.com/user-attachments/assets/3bebff4a-949f-40a6-8446-367770cab24f
 
+https://github.com/user-attachments/assets/275b1c4f-fbe7-45fe-bf96-5986404140f8
+
+
 
 
 ## Examples
