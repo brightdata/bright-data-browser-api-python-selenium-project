@@ -12,7 +12,9 @@ This project demonstrates how to use <a href="https://brightdata.com/products/sc
 4. Run `python index.py` to start scraping
 
 ## Demo
-https://github.com/user-attachments/assets/9178d94a-d5a3-46a9-b998-2328b1087c39
+https://github.com/user-attachments/assets/3bebff4a-949f-40a6-8446-367770cab24f
+
+
 
 ## Examples
 1. [Booking.com Hotel Scraping Demo](hotel-scraping/README.md)
